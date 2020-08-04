@@ -2,7 +2,8 @@
 Cello Playlist for Twitch streamer Yodelay ( https://www.twitch.tv/yodel_ay/ )
 
 
- < 요룰레히 프로젝트 >
+ 
+ < 요둘레히 프로젝트 >
 
 1. 플랫폼
 
@@ -33,6 +34,8 @@ Cello Playlist for Twitch streamer Yodelay ( https://www.twitch.tv/yodel_ay/ )
  
  유튜브에 올라온 영상은 유튜브 / 트위치 링크 달기
 
+ 문의 ( 비밀글 / 공개글 )
+
 5. 생각해봐야 하는 부분
 
  같은 노래 여러번 연주 : 어떻게 구분 / 표시 ?
@@ -53,6 +56,12 @@ Cello Playlist for Twitch streamer Yodelay ( https://www.twitch.tv/yodel_ay/ )
 
 7. 확장
 
- 다른 스트리머까지 확장
- 
- 8. 목표 기간 : 20.08월까지
+ 조회 순
+ 곡 제목 순
+ 날짜 순 정렬
+
+ Default : 이름 순 
+
+ 앱 통해 유튜브 시청 / 인스타 사진 / 트게더 등등
+
+기한 : 08월까지 
